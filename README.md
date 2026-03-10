@@ -8,7 +8,7 @@
       <!-- PHOTO_PLACEHOLDER_START -->
       <!-- Replace the src URL with your personal photo (square works best). -->
       <img
-        src="https://path_to_your_photo.jpg"
+        src="IMG/Profile_Img.jpg"
         alt="YOUR NAME — UC San Diego / UNC ACMLab"
         width="200"
         style="border-radius:50%; border:1px solid rgba(255,255,255,0.12);"
@@ -18,18 +18,18 @@
     <td style="vertical-align:middle;">
       <a href="https://git.io/typing-svg">
         <img
-          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=9B5CFF&width=700&lines=Hi%2C+I%27m+YOUR+NAME;Math-CS+Junior+%40+UC+San+Diego+(%2727);Researcher+%40+UNC+ACMLab;Focus%3A+Medical+Foundation+Models+%26+Multimodal+AI"
+          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=9B5CFF&width=820&lines=Hi%2C+I%27m+YOUR+NAME;Math-CS+Junior+%40+UC+San+Diego+(%2727);Researcher+%40+UNC+ACMLab;Medical+Foundation+Models+%7C+Multimodal+AI+%7C+Agentic+Systems"
           alt="Typing intro"
         />
       </a>
 
   <p>
-    I’m a <b>Math-CS junior at UC San Diego (Class of 2027)</b> and a <b>Researcher at UNC ACMLab</b> (previously at <b>Qualcomm Institute / Calit2</b>).
-    My work centers on <b>Foundation Models for Medical AI</b>—building <b>multimodal systems</b> that unite <b>clinical text</b>, <b>medical imaging</b>, and <b>surgical environments</b> for precision diagnostics and healthcare automation.
+    I’m a <b>Math-CS junior at UC San Diego (Class of 2027)</b> and a <b>Researcher at UNC ACMLab</b>.
+    I build <b>Medical Foundation Models</b> and <b>agentic multimodal systems</b> that unify <b>clinical text</b>, <b>medical imaging</b>, and <b>surgical environments</b>—with a focus on <b>interpretability</b>, <b>reproducibility</b>, and real-world clinical utility.
   </p>
 
   <p>
-    <b>Interests:</b> multimodal LLMs + CV, medical imaging, surgical scene understanding, scalable annotation & segmentation, reliable evaluation.
+    <b>Interests:</b> multimodal large models (e.g., Gemma-style), AI agents for healthcare workflows, medical imaging, surgical scene understanding, scalable annotation & segmentation, reliable evaluation.
   </p>
     </td>
   </tr>
@@ -65,6 +65,53 @@
 <!-- ========================= -->
 
 ### Featured Research & Projects
+
+<!-- CYBERNEURO_ASSETS_START -->
+<!-- Replace the href values below with your real links:
+  - Project Page URL
+  - Video Demo URL
+  - Live Demo URL
+  - Kaggle Writeup URL (Med-Gemma Impact Challenge)
+-->
+<!-- CYBERNEURO_ASSETS_END -->
+
+<table style="width:100%; border:0; border-collapse:collapse;">
+  <tr>
+    <td style="width:100%; vertical-align:top; padding:10px;">
+      <div>
+        <img src="https://img.shields.io/badge/Featured%20Release-CyberNeuro-FF4D8D?style=for-the-badge&labelColor=0B0F1A" alt="CyberNeuro"/>
+        <img src="https://img.shields.io/badge/Kaggle-Med--Gemma%20Impact%20Challenge-00D1FF?style=for-the-badge&labelColor=0B0F1A&logo=kaggle&logoColor=00D1FF" alt="Kaggle Med-Gemma Impact Challenge"/>
+        <br/><br/>
+        <b>CyberNeuro — Intelligent Brain Network Analysis System</b><br/>
+        <sub><b>Status:</b> Released (ACMLab) • <b>Featured:</b> Kaggle Med-Gemma Impact Challenge</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Agents-0B0F1A?style=flat&logo=openai&logoColor=FFFFFF" alt="Agents"/>
+        <img src="https://img.shields.io/badge/Medical%20AI-0B0F1A?style=flat&logo=academia&logoColor=FFFFFF" alt="Medical AI"/>
+        <img src="https://img.shields.io/badge/Interpretability-0B0F1A?style=flat&logo=proton&logoColor=FFFFFF" alt="Interpretability"/>
+        <img src="https://img.shields.io/badge/Reproducibility-0B0F1A?style=flat&logo=githubactions&logoColor=FFFFFF" alt="Reproducibility"/>
+        <br/><br/>
+        Shifted brain network analysis from static “workflow stacking” to <b>intelligent decision-making</b> via a <b>4-layer agentic adaptive orchestration</b>—making the chain <b>interpretable</b>, <b>reproducible</b>, and <b>traceable</b>.
+        <br/><br/>
+        Validated on <b>500+ real medical queries</b> with <b>95.8% Accuracy</b>, <b>88.7% Recall</b>, and <b>100% Precision</b>.
+        <br/><br/>
+        <a href="https://YOUR_CYBERNEURO_PROJECT_PAGE_URL">
+          <img src="https://img.shields.io/badge/Project%20Page-0B0F1A?style=for-the-badge&logo=githubpages&logoColor=FFFFFF" alt="Project Page"/>
+        </a>
+        <a href="https://YOUR_CYBERNEURO_VIDEO_DEMO_URL">
+          <img src="https://img.shields.io/badge/Video%20Demo-0B0F1A?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Video Demo"/>
+        </a>
+        <a href="https://YOUR_CYBERNEURO_LIVE_DEMO_URL">
+          <img src="https://img.shields.io/badge/Live%20Demo-0B0F1A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Live Demo"/>
+        </a>
+        <a href="https://YOUR_KAGGLE_WRITEUP_URL">
+          <img src="https://img.shields.io/badge/Kaggle%20Writeup-0B0F1A?style=for-the-badge&logo=kaggle&logoColor=00D1FF" alt="Kaggle Writeup"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <table style="width:100%; border:0; border-collapse:collapse;">
   <tr>
@@ -163,9 +210,6 @@ I’m dedicated to building **Medical Foundation Models**—multimodal systems t
 </a>
 <a href="mailto:YOUR_EMAIL@domain.com">
   <img src="https://img.shields.io/badge/Email-0B0F1A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a>
-<a href="https://YOUR_PORTFOLIO_SITE.com">
-  <img src="https://img.shields.io/badge/Portfolio-0B0F1A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/>
 </a>
 <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
   <img src="https://img.shields.io/badge/Google%20Scholar-0B0F1A?style=for-the-badge&logo=googlescholar&logoColor=4FC3F7" alt="Google Scholar"/>
