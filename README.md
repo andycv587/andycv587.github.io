@@ -1,251 +1,156 @@
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
+<div align="center">
 
-<table style="width:100%; border:0; border-collapse:collapse;">
-  <tr>
-    <td style="width:220px; vertical-align:middle; padding-right:18px;">
-      <!-- PHOTO_PLACEHOLDER_START -->
-      <!-- Replace the src URL with your personal photo (square works best). -->
-      <img
-        src="IMG/Profile_Img.jpg"
-        alt="YOUR NAME — UC San Diego / UNC ACMLab"
-        width="200"
-        style="border-radius:50%; border:1px solid rgba(255,255,255,0.12);"
-      />
-      <!-- PHOTO_PLACEHOLDER_END -->
-    </td>
-    <td style="vertical-align:middle;">
-      <a href="https://git.io/typing-svg">
-        <img
-          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=9B5CFF&width=820&lines=Hi%2C+I%27m+YOUR+NAME;Math-CS+Junior+%40+UC+San+Diego+(%2727);Researcher+%40+UNC+ACMLab;Medical+Foundation+Models+%7C+Multimodal+AI+%7C+Agentic+Systems"
-          alt="Typing intro"
-        />
-      </a>
+  <!-- NOTE: GitHub strips CSS like border-radius in many cases.
+       For a circular avatar here, crop your image to a circle beforehand (or upload a circular PNG/JPG). -->
+  <img src="./IMG/Profile_Img.jpg" width="180" height="180" alt="Shuheng (Andy) Cao — UC San Diego / UNC ACMLab" />
+
+  <h1>Hi there, I'm Shuheng (Andy) Cao 👋</h1>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=50&lines=Math-CS+Junior+%40+UC+San+Diego;Researcher+%40+UNC+ACMLab;Building+Medical+Foundation+Models;AI+Agents+for+Healthcare"
+    alt="Typing SVG"
+  />
 
   <p>
-    I’m a <b>Math-CS junior at UC San Diego (Class of 2027)</b> and a <b>Researcher at UNC ACMLab</b>.
-    I build <b>Medical Foundation Models</b> and <b>agentic multimodal systems</b> that unify <b>clinical text</b>, <b>medical imaging</b>, and <b>surgical environments</b>—with a focus on <b>interpretability</b>, <b>reproducibility</b>, and real-world clinical utility.
+    Math-CS Junior at <b>UC San Diego (Class of 2027)</b> & Researcher at <b>UNC ACMLab</b>. I focus on
+    <b>Foundation Models</b>, <b>Medical AI</b>, and <b>Agentic Systems</b>—especially multimodal large models
+    (Gemma-style) and AI agents that make healthcare workflows more reliable, interpretable, and reproducible.
   </p>
 
-  <p>
-    <b>Interests:</b> multimodal large models (e.g., Gemma-style), AI agents for healthcare workflows, medical imaging, surgical scene understanding, scalable annotation & segmentation, reliable evaluation.
-  </p>
-    </td>
-  </tr>
-</table>
+  <br />
 
-<br/>
+  <h3>🛠️ Tech Stack &amp; Tools</h3>
 
-<!-- ========================= -->
-<!--     TECH STACK & TOOLS    -->
-<!-- ========================= -->
+  <img
+    src="https://skillicons.dev/icons?i=py,cpp,java,swift,pytorch,opencv,tensorflow,linux,raspberrypi&theme=dark"
+    alt="Tech stack icons"
+  />
 
-### Tech Stack & Tools
+</div>
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-0B0F1A?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
-<img src="https://img.shields.io/badge/C%2B%2B-0B0F1A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-0B0F1A?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Java"/>
-<img src="https://img.shields.io/badge/Swift-0B0F1A?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift"/>
-
-**AI & Medical Computing**
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-0B0F1A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/OpenCV-0B0F1A?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/TensorFlow-0B0F1A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Linux-0B0F1A?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
-<img src="https://img.shields.io/badge/NVIDIA%20Jetson-0B0F1A?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="Jetson"/>
-
-<br/>
+<br />
 
 <!-- ========================= -->
-<!--   FEATURED PROJECT GRID   -->
+<!--     TOP HIGHLIGHT CARD    -->
 <!-- ========================= -->
-
-### Featured Research & Projects
 
 <!-- CYBERNEURO_ASSETS_START -->
 <!-- Replace the href values below with your real links:
-  - Project Page URL
+  - CyberNeuro Project Page URL
   - Video Demo URL
   - Live Demo URL
   - Kaggle Writeup URL (Med-Gemma Impact Challenge)
 -->
 <!-- CYBERNEURO_ASSETS_END -->
 
-<table style="width:100%; border:0; border-collapse:collapse;">
+<blockquote>
+  <p>
+    <b>🔥 CyberNeuro: Intelligent Brain Network Analysis System (Kaggle Med-Gemma Impact Challenge)</b><br />
+    Validated on <b>500+</b> real medical queries with <b>95.8% Accuracy</b>, <b>88.7% Recall</b>, and <b>100% Precision</b>.<br />
+    A <b>4-layer agentic adaptive orchestration</b> that shifts analysis from static workflow stacking to
+    <b>intelligent decision-making</b>—keeping the chain <b>interpretable</b>, <b>reproducible</b>, and <b>traceable</b>.
+  </p>
+  <p>
+    <a href="https://YOUR_CYBERNEURO_PROJECT_PAGE_URL"><b>[Project Page]</b></a> ·
+    <a href="https://YOUR_CYBERNEURO_VIDEO_DEMO_URL"><b>[Video Demo]</b></a> ·
+    <a href="https://YOUR_CYBERNEURO_LIVE_DEMO_URL"><b>[Live Demo]</b></a> ·
+    <a href="https://YOUR_KAGGLE_WRITEUP_URL"><b>[Kaggle Writeup]</b></a>
+  </p>
+</blockquote>
+
+<br />
+
+<!-- ========================= -->
+<!--     OTHER FEATURED WORK   -->
+<!-- ========================= -->
+
+<table width="100%" border="0" cellpadding="0" cellspacing="15">
   <tr>
-    <td style="width:100%; vertical-align:top; padding:10px;">
-      <div>
-        <img src="https://img.shields.io/badge/Featured%20Release-CyberNeuro-FF4D8D?style=for-the-badge&labelColor=0B0F1A" alt="CyberNeuro"/>
-        <img src="https://img.shields.io/badge/Kaggle-Med--Gemma%20Impact%20Challenge-00D1FF?style=for-the-badge&labelColor=0B0F1A&logo=kaggle&logoColor=00D1FF" alt="Kaggle Med-Gemma Impact Challenge"/>
-        <br/><br/>
-        <b>CyberNeuro — Intelligent Brain Network Analysis System</b><br/>
-        <sub><b>Status:</b> Released (ACMLab) • <b>Featured:</b> Kaggle Med-Gemma Impact Challenge</sub>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Agents-0B0F1A?style=flat&logo=openai&logoColor=FFFFFF" alt="Agents"/>
-        <img src="https://img.shields.io/badge/Medical%20AI-0B0F1A?style=flat&logo=academia&logoColor=FFFFFF" alt="Medical AI"/>
-        <img src="https://img.shields.io/badge/Interpretability-0B0F1A?style=flat&logo=proton&logoColor=FFFFFF" alt="Interpretability"/>
-        <img src="https://img.shields.io/badge/Reproducibility-0B0F1A?style=flat&logo=githubactions&logoColor=FFFFFF" alt="Reproducibility"/>
-        <br/><br/>
-        Shifted brain network analysis from static “workflow stacking” to <b>intelligent decision-making</b> via a <b>4-layer agentic adaptive orchestration</b>—making the chain <b>interpretable</b>, <b>reproducible</b>, and <b>traceable</b>.
-        <br/><br/>
-        Validated on <b>500+ real medical queries</b> with <b>95.8% Accuracy</b>, <b>88.7% Recall</b>, and <b>100% Precision</b>.
-        <br/><br/>
-        <a href="https://YOUR_CYBERNEURO_PROJECT_PAGE_URL">
-          <img src="https://img.shields.io/badge/Project%20Page-0B0F1A?style=for-the-badge&logo=githubpages&logoColor=FFFFFF" alt="Project Page"/>
-        </a>
-        <a href="https://YOUR_CYBERNEURO_VIDEO_DEMO_URL">
-          <img src="https://img.shields.io/badge/Video%20Demo-0B0F1A?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Video Demo"/>
-        </a>
-        <a href="https://YOUR_CYBERNEURO_LIVE_DEMO_URL">
-          <img src="https://img.shields.io/badge/Live%20Demo-0B0F1A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Live Demo"/>
-        </a>
-        <a href="https://YOUR_KAGGLE_WRITEUP_URL">
-          <img src="https://img.shields.io/badge/Kaggle%20Writeup-0B0F1A?style=for-the-badge&logo=kaggle&logoColor=00D1FF" alt="Kaggle Writeup"/>
-        </a>
-      </div>
+    <td valign="top">
+      <h4>🧪 AAAI 2026 (Planned): Organic Chemistry Reaction Prediction</h4>
+      <p>
+        Model design &amp; experimentation toward robust reaction prediction with rigorous evaluation.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=py,pytorch&theme=dark" alt="AAAI plan tech" />
+      </p>
+    </td>
+    <td valign="top">
+      <h4>🩺 MedCAT: Medical Contour Annotation Tool</h4>
+      <p>
+        A Java tool to streamline deep learning mask generation and accelerate medical segmentation dataset creation.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="MedCAT tech" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>🧠 Hessian Segmentation</h4>
+      <p>
+        Medical image segmentation leveraging multi-channel Hessian-domain information for structure-sensitive signals.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=py,pytorch,opencv&theme=dark" alt="Hessian segmentation tech" />
+      </p>
+    </td>
+    <td valign="top">
+      <h4>🔬 SAVE 2024: Laparoscopic Surgery Training (Stanford Live Demo)</h4>
+      <p>
+        Calot Triangle detection for laparoscopic training; demonstrated live at Stanford University.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=py,opencv&theme=dark" alt="SAVE 2024 tech" />
+      </p>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<table style="width:100%; border:0; border-collapse:collapse;">
-  <tr>
-    <td style="width:50%; vertical-align:top; padding:10px;">
-      <div>
-        <img src="https://img.shields.io/badge/MedCAT-9B5CFF?style=for-the-badge&labelColor=0B0F1A" alt="MedCAT"/>
-        <br/><br/>
-        <b>MedCAT — Medical Contour Annotation Tool</b><br/>
-        <sub><b>Timeline:</b> 2024–Present</sub><br/><br/>
-        <img src="https://img.shields.io/badge/Java-0B0F1A?style=flat&logo=oracle&logoColor=F80000" alt="Java"/>
-        <img src="https://img.shields.io/badge/Workflow-0B0F1A?style=flat&logo=apacheairflow&logoColor=00C7B7" alt="Workflow"/>
-        <img src="https://img.shields.io/badge/Annotation-0B0F1A?style=flat&logo=databricks&logoColor=FF3621" alt="Annotation"/>
-        <br/><br/>
-        Streamlined <b>mask generation & contour annotation</b> to accelerate dataset creation for medical segmentation pipelines.
-      </div>
-    </td>
-    <td style="width:50%; vertical-align:top; padding:10px;">
-      <div>
-        <img src="https://img.shields.io/badge/Hessian%20Segmentation-00D1FF?style=for-the-badge&labelColor=0B0F1A" alt="Hessian Segmentation"/>
-        <br/><br/>
-        <b>Hessian Segmentation — Multi-channel Hessian Domain Segmentation</b><br/>
-        <sub><b>Timeline:</b> 2024–Present</sub><br/><br/>
-        <img src="https://img.shields.io/badge/PyTorch-0B0F1A?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/OpenCV-0B0F1A?style=flat&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>
-        <img src="https://img.shields.io/badge/Medical%20Imaging-0B0F1A?style=flat&logo=academia&logoColor=FFFFFF" alt="Medical Imaging"/>
-        <br/><br/>
-        Leveraged <b>multi-channel Hessian features</b> to enhance structure-sensitive segmentation in medical images.
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="width:50%; vertical-align:top; padding:10px;">
-      <div>
-        <img src="https://img.shields.io/badge/AAAI%202026%20(Planned)-FF4D8D?style=for-the-badge&labelColor=0B0F1A" alt="AAAI 2026 Planned"/>
-        <br/><br/>
-        <b>Organic Chemistry Reaction Prediction (Planned)</b><br/>
-        <sub><b>Timeline:</b> 2025–2026</sub><br/><br/>
-        <img src="https://img.shields.io/badge/Model%20Design-0B0F1A?style=flat&logo=proton&logoColor=FFFFFF" alt="Model Design"/>
-        <img src="https://img.shields.io/badge/Experimentation-0B0F1A?style=flat&logo=pytest&logoColor=FFFFFF" alt="Experimentation"/>
-        <img src="https://img.shields.io/badge/PyTorch-0B0F1A?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
-        <br/><br/>
-        Developing and evaluating <b>predictive modeling pipelines</b> with rigorous experimentation to support an <b>AAAI 2026</b> submission trajectory.
-      </div>
-    </td>
-    <td style="width:50%; vertical-align:top; padding:10px;">
-      <div>
-        <img src="https://img.shields.io/badge/SAVE%202024-76B900?style=for-the-badge&labelColor=0B0F1A" alt="SAVE 2024"/>
-        <br/><br/>
-        <b>Laparoscopic Surgery Training — Calot Triangle Detection</b><br/>
-        <sub><b>Timeline:</b> 2024</sub><br/><br/>
-        <img src="https://img.shields.io/badge/Computer%20Vision-0B0F1A?style=flat&logo=opencv&logoColor=5C3EE8" alt="Computer Vision"/>
-        <img src="https://img.shields.io/badge/Real--time%20Demo-0B0F1A?style=flat&logo=vercel&logoColor=FFFFFF" alt="Real-time Demo"/>
-        <img src="https://img.shields.io/badge/Surgical%20AI-0B0F1A?style=flat&logo=semanticuireact&logoColor=FFFFFF" alt="Surgical AI"/>
-        <br/><br/>
-        Built and demonstrated a <b>live CV system</b> for <b>Calot Triangle detection</b> to support laparoscopic training (live demo at Stanford).
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================= -->
-<!--     ACADEMIC FOUNDATION   -->
-<!-- ========================= -->
-
-### Academic Foundation
-
-<details>
-  <summary><b>Selected Coursework (click to expand)</b></summary>
-  <br/>
-
-- **Deep Learning** — A+  
-- **Medical Image Computing** — A-  
-- **Statistical NLP** — A-  
-- **Core math & CS** — linear algebra, probability, optimization, algorithms, systems (tailor as needed)
-
-</details>
-
-<br/>
-
-<!-- ========================= -->
-<!--   FUTURE + CONTACT LINKS  -->
-<!-- ========================= -->
-
-### Future Aiming
-
-I’m dedicated to building **Medical Foundation Models**—multimodal systems that fuse **LLMs + Computer Vision** to understand **medical imaging**, **clinical text**, and **surgical environments** for safer, more reliable healthcare AI.
-
-### Contact
-
-<!-- URLS_PLACEHOLDER_START -->
-<!-- Replace placeholders with your real links. -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="mailto:YOUR_EMAIL@domain.com">
-  <img src="https://img.shields.io/badge/Email-0B0F1A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a>
-<a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
-  <img src="https://img.shields.io/badge/Google%20Scholar-0B0F1A?style=for-the-badge&logo=googlescholar&logoColor=4FC3F7" alt="Google Scholar"/>
-</a>
-<!-- URLS_PLACEHOLDER_END -->
-
-<br/><br/>
+<br />
 
 <!-- ========================= -->
 <!--        GITHUB STATS       -->
 <!-- ========================= -->
 
 <div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub stats"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-    height="160"
-  />
-
-  <br/>
-
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
-    height="180"
-  />
-
+  <h3>📊 GitHub Analytics</h3>
 </div>
 
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=andycv587&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub stats"
+        height="160"
+      />
+    </td>
+    <td align="center" valign="top">
+      <img
+        src="https://streak-stats.demolab.com?user=andycv587&theme=tokyonight&hide_border=true"
+        alt="GitHub streak"
+        height="160"
+      />
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <!-- ========================= -->
-<!--            END            -->
+<!--        CONTACT FOOTER     -->
 <!-- ========================= -->
+
+<!-- CONTACT_LINKS_START -->
+<!-- Replace placeholders with your real links. -->
+<!-- CONTACT_LINKS_END -->
+
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> ·
+    <a href="mailto:YOUR_EMAIL@domain.com">Email</a> ·
+    <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">Google Scholar</a>
+  </p>
+</div>
 
